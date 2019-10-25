@@ -331,6 +331,7 @@ export {
 
 export { default as useUser } from './hooks/useUser';
 export { default as useUserVPN } from './hooks/useUserVPN';
+export { default as useBlackFriday } from './hooks/useBlackFriday';
 export { default as useCachedModelResult } from './hooks/useCachedModelResult';
 export { default as usePromiseResult } from './hooks/usePromiseResult';
 export { default as useAddresses } from './hooks/useAddresses';
